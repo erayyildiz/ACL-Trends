@@ -1,4 +1,4 @@
-NLP keywords popularities over the last 30 years. Extracted from the papers in ACL Anthology. 
+Popularity Scores of NLP keywords over the last 30 years. Extracted from the papers in ACL Anthology. 
 
 ![](visual.gif)
 
